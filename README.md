@@ -1,2 +1,2 @@
 # Elastic-SIEM
-Setting up a home lab for Elastic Stack SIEM using the Elastic Web portal and a Kali Linux VM.
+Summarize the setup process, highlighting the establishment of a home lab using Elastic SIEM and a Kali VM. Detail the forwarding of data from the Kali VM to the SIEM using the Elastic Beats agent, the generation of security events with Nmap, and the querying and analysis of logs via the Elastic web interface. Conclude with the creation of a dashboard to visualize security events and the implementation of an alert to detect such events.
